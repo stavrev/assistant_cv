@@ -1,0 +1,8 @@
+langchain-openai
+langchain-core
+markdown
+jinja2
+pdfkit
+weasyprint
+python-dotenv
+logging

@@ -1,0 +1,56 @@
+# Senior Software Engineer - Machine Learning
+
+## About TechForward
+
+TechForward is a fast-growing technology company specializing in developing innovative software solutions that leverage machine learning and cloud technologies. We work with clients across various industries including finance, healthcare, and e-commerce to build scalable, high-performance applications that solve complex business problems.
+
+## Job Description
+
+We are seeking an experienced Senior Software Engineer with a strong background in machine learning and cloud infrastructure to join our engineering team. The ideal candidate will lead development efforts, mentor junior engineers, and collaborate with cross-functional teams to deliver high-quality software solutions.
+
+## Responsibilities
+
+- Design, develop, and maintain scalable software applications using Python and modern frameworks
+- Lead the architecture and implementation of machine learning systems and data pipelines
+- Optimize application performance and ensure high availability of services
+- Implement and maintain CI/CD pipelines for automated testing and deployment
+- Collaborate with data scientists to deploy ML models to production environments
+- Mentor junior engineers and promote best practices for code quality and efficiency
+- Work with product managers to refine requirements and deliver features on schedule
+- Evaluate and integrate new technologies to improve our development stack
+- Participate in code reviews and contribute to technical documentation
+- Troubleshoot and resolve complex technical issues in production environments
+
+## Requirements
+
+- Bachelor's degree in Computer Science, Engineering, or related field (Master's preferred)
+- 5+ years of experience in software development, with at least 3 years focusing on Python
+- Strong experience with cloud platforms (AWS, GCP, or Azure)
+- Experience with containerization technologies (Docker, Kubernetes)
+- Proficiency in developing and deploying machine learning models
+- Knowledge of microservices architecture and RESTful API design
+- Experience with database systems (SQL and NoSQL)
+- Familiarity with Git, CI/CD tools, and Agile methodologies
+- Strong problem-solving skills and attention to detail
+- Excellent communication and collaboration abilities
+
+## Preferred Qualifications
+
+- Experience with TensorFlow, PyTorch, or similar ML frameworks
+- Knowledge of JavaScript and front-end frameworks (React, Vue.js)
+- Experience with Django or Flask for web application development
+- Background in data processing and ETL pipelines
+- Contributions to open-source projects
+- Experience leading development teams
+
+## Benefits
+
+- Competitive salary and equity package
+- Comprehensive health, dental, and vision insurance
+- Flexible work arrangements with remote options
+- Professional development budget
+- 401(k) matching
+- Generous PTO policy
+- Modern office in downtown San Francisco
+
+TechForward is an equal opportunity employer committed to building a diverse and inclusive workforce. We encourage candidates from all backgrounds to apply.

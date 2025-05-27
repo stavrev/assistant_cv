@@ -1,0 +1,50 @@
+# Ignore all files in job_descriptions directory but keep the directory itself and job_sample.txt
+inputs/job_descriptions/*
+!inputs/job_descriptions/.gitkeep
+!inputs/job_descriptions/job_sample.txt
+
+# Ignore all files in inputs/cv directory except sample_cv.md
+inputs/cv/*
+!inputs/cv/sample_cv.md
+
+# Python virtual environment
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs
+*.log
+
+# Output directories
+outputs/
+
+# Environment variables
+.env
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
