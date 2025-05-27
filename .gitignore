@@ -34,7 +34,8 @@ var/
 *.log
 
 # Output directories
-outputs/
+outputs/*
+!outputs/.gitkeep
 
 # Environment variables
 .env
