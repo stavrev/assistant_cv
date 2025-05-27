@@ -117,6 +117,8 @@ python run.py letter -cv inputs/cv/your_cv.md -jd inputs/job_descriptions/job_po
 python run.py adopt -source inputs/cv/your_cv.md -template template_name
 ```
 
+* `template_name` is the name of the template directory in the `templates/` directory, example: `... -template default `
+
 ### Command Options
 
 - `-cv`: Path to your CV file (if not provided, uses the most recent CV in the `inputs/cv/` directory)
@@ -155,7 +157,8 @@ To create a new template:
 2. Add the following files:
    - `cv_template.md`: Template for CV
    - `letter_template.md`: Template for cover letter
-   - `style.css`: CSS styling for HTML and PDF outputs
+   - `cv_style.css`: CSS styling for CV HTML and PDF outputs
+   - `letter_style.css`: CSS styling for cover letter HTML and PDF outputs
    - `cv_instructions.md`: Instructions for CV generation
    - `letter_instructions.md`: Instructions for cover letter generation
 
